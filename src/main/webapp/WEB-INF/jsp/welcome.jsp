@@ -31,6 +31,17 @@
 		</div>
 	</nav>
 
+
+	<iframe frameborder="1" allowtransparency="true" src="https://www.klantenvertellen.nl/facebook/klantenvertellen.nl" width="800" height="800"></iframe>
+	<iframe frameborder="1" allowtransparency="true" src="https://www.klantenvertellen.nl/fb/1000067/albo-ramen-deuren-zonwering-rolluiken?limit=25&lang=null" width="800" height="800"></iframe>
+
+	<iframe frameborder="1" allowtransparency="true" src="http://kv2test.klantenvertellen.nl/fb/27/DTG?limit=25&lang=2" width="800" height="800"></iframe>
+	<iframe frameborder="1" allowtransparency="true" src="http://10.53.63.2/fb/27/DTG?limit=25&lang=2" width="800" height="800"></iframe>
+	<iframe frameborder="1" allowtransparency="true" src="http://kv2test.klantenvertellen.nl/fb/28/Zwart%2BWit%2BOnderhoudsbedrijf?limit=25&lang=2" width="800" height="800"></iframe>
+	<iframe frameborder="1" allowtransparency="true" src="http://localhost:8080/fb/1000000/mediamarkt?limit=25&lang=2" width="800" height="800"></iframe>
+
+
+
 	<div class="container">
 
 		<div class="starter-template">
